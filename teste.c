@@ -14,6 +14,7 @@ int main(void)
 		printf("%c", ch);
 		ch = fgetc(arr);
 	}
+	print("that's the text you have");
         
 return 0;
 }
