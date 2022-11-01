@@ -5,7 +5,7 @@ int main(void)
 	FILE *arr = fopen("texto.txt","r");
 	if (arr == NULL)
 		{
-			printf("NULL :(\n");
+			printf("NULL :( \n");
 			return 1;
 		}
 	char ch  = fgetc(arr);
