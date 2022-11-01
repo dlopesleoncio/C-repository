@@ -15,7 +15,6 @@ int main(void)
 		ch = fgetc(arr);
 	}
 	print("that's the text you have");
-        
 return 0;
 }
 	
