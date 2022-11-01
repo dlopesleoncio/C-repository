@@ -1,1 +1,4 @@
-console.log("Fala ae");
+for(let i; i < 17; i++){
+    console.log("Fala ae");
+}
+    
